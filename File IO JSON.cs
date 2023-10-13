@@ -13,9 +13,9 @@ namespace File_IO_On_TXT_CSV_And_JSON
 
              var jsonData = new
             {
-                Name = "John",
-                Age = 30,
-                Location = "New York"
+                Name = "Sai",
+                Age =22,
+                Location = "India"
             };
 
             string FilePath = @"C:\Users\HP\OneDrive\Desktop\RFP(Remap)\File IO On TXT,CSV And JSON\JSON.json";
